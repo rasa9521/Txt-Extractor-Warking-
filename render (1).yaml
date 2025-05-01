@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SAINI TXT DIRECT 
+    name: TXT EXTRACOR WARKING
     plan: free
     env: docker
     dockerfilePath: Dockerfile
